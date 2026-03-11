@@ -1,0 +1,4 @@
+/api/* /api/:splat 200
+/assets/* /assets/:splat 200
+/videos/* /videos/:splat 200
+/* /index.html 200
